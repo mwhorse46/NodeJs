@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-learn",
+  "version": "1.0.0",
+  "description": "database stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harshit",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.11"
+  }
+}
